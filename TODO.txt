@@ -1,5 +1,0 @@
-TODO LIST:
-
-     - instead of using image::Rgb everywhere, just use an array
-     of three floats that is normalized (goes from 0 to 1) and then convert
-     it to u8 RGB pixels when you actually put it on the image buffer.
